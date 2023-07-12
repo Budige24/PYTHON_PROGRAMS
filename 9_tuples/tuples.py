@@ -27,4 +27,4 @@ for i in fullName:
 # --------------Membership (to find the element present in data)----------------
 firstname = ("Sruthi")
 print("S" in firstname)
-print("V" in firstname)
+print("M" in firstname)
