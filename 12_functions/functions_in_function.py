@@ -1,4 +1,4 @@
-# -------------Nested (function in function)-------------------
+# -------------Nested-functions (functions in function)------------
 def outer():
     print("this is outer function")
 
@@ -11,7 +11,7 @@ def outer():
 outer()
 
 
-# -------------import functions--------------------------------
+# -------------import functions-----------------------------------
 def add(a, b):
     print(a + b)
 
