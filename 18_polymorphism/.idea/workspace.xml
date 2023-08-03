@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4ffebae3-dced-4a3c-8768-55817a390233" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../16_inheritance/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../16_inheritance/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_inheritance/_16_inheritance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../16_inheritance/_16_inheritance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_inheritance/multilevel_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/../16_inheritance/multilevel_inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +26,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/BVK/PROGRAMS/PYTHON_PROGRAMS/18_polymorphism",
+    "last_opened_file_path": "C:/BVK/PROGRAMS/PYTHON_PROGRAMS/17_encapsulation",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -39,6 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1690543810378</updated>
       <workItem from="1690543811362" duration="27000" />
+      <workItem from="1690784598878" duration="4479000" />
     </task>
     <servers />
   </component>
